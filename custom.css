@@ -1,0 +1,10 @@
+#smile_face {
+    width: 30vw;
+}
+
+#section1 {
+    background-image: url(./images/beyourself2021.png), url(./images/plane.gif);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top center, top left;
+    background-size: 100% auto, 100% auto;
+}
